@@ -1,11 +1,11 @@
 {
+  "postgresql": {
+    "password": {
+      "postgres": "Ch4ng3M3"
+    }
+  },
   "run_list": [
     "recipe[bootstrap]",
     "recipe[postgresql::server]"
-  ],
-  "node": {
-    "postgresql": {
-      "password": "Ch4ng3M3"
-    }
-  }
+  ]
 }
