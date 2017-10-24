@@ -5,9 +5,7 @@
   ],
   "node": {
     "postgresql": {
-      "password": {
-        "postgres": "Ch4ng3M3"
-      }
+      "password": "Ch4ng3M3"
     }
   }
 }
