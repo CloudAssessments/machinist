@@ -1,4 +1,4 @@
-name 'bootstrap'
+name 'base-builder'
 maintainer 'Travis N. Thomsen'
 maintainer_email 'travis@linuxacademy.com'
 license 'All Rights Reserved'
