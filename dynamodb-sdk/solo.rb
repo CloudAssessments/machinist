@@ -1,2 +1,2 @@
-file_cache_path "/root/lfcs-cache"
-cookbook_path "/root/machinist/lfcs/cookbooks"
+file_cache_path "/root/cloudconfig-cache"
+cookbook_path "/root/machinist-cloudconfig/dynamodb-sdk"
