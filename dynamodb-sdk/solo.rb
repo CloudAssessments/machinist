@@ -1,2 +1,2 @@
-file_cache_path "~/cloudconfig-cache"
+file_cache_path "~/dynamodb-sdk-cache"
 cookbook_path "~/machinist-cloudconfig/dynamodb-sdk/cookbooks"
