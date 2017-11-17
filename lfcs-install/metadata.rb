@@ -1,4 +1,4 @@
-name 'lfcs'
+name 'lfcs-install'
 maintainer 'Travis N. Thomsen'
 maintainer_email 'travis@linuxacademy.com'
 license 'All Rights Reserved'
